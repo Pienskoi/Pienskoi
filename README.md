@@ -3,6 +3,6 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: Java, Kotlin</code>
-<code>📦 Tech stack: Spring</code>
+<code>📦 Tech stack: Spring</code><br>
 <code>💬 telegram: [@Pienskoi](https://telegram.me/Pienskoi)</code>
 <code>📫 [vladymyrpenskoy@gmail.com](mailto:vladymyrpenskoy@gmail.com)</code>
