@@ -1,4 +1,4 @@
-<code>👷 Speciality: Systems engineer / DevOps</code><br>
+<code>👷 Speciality: Systems engineer / DevOps</code>
 <code>🖥️ Place of work: EPAM Systems</code>
 <code>🎓 Student: KPI / IP-94</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
